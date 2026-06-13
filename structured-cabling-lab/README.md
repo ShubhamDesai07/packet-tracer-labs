@@ -1,20 +1,10 @@
-# Structured Cabling and Rack Design Lab
+## Screenshots
 
-## Objective
-Create a realistic structured cabling environment and organize networking devices inside a rack using Cisco Packet Tracer.
+### Logical Topology
+![Topology](topology.png)
 
-## Skills Demonstrated
-- Structured Cabling
-- Physical Workspace Design
-- Rack Installation
-- Cable Management
-- Network Documentation
+### Physical Workspace
+![Physical Workspace](physical-workspace.png)
 
-## Tools Used
-- Cisco Packet Tracer
-
-## Learning Outcomes
-- Understand structured cabling concepts
-- Organize devices in a network rack
-- Apply cable management best practices
-- Simulate a real-world network environment
+### Rack View
+![Rack View](rack-view.png)
